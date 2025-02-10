@@ -15,7 +15,7 @@ A Python-based notification system that automatically sends Microsoft Teams aler
 
 airflow_teams_notifier/
 │
-├── src/
+| ├── src/
 │ ├── init.py
 │ ├── models/
 │ │ ├── init.py
