@@ -12,7 +12,7 @@ A Python-based notification system that automatically sends Microsoft Teams aler
 - 🔄 Easy to extend and customize
 
 ## Project Structure
-
+~~~ bash
 airflow_teams_notifier/
 │
 | ├── src/
@@ -30,7 +30,7 @@ airflow_teams_notifier/
 ├── requirements.txt
 ├── README.md
 └── main.py
-
+~~~
 ## Configuration
 
 The application can be configured through `src/config.py`. Key configurations include:
