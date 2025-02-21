@@ -67,7 +67,7 @@ This project is not yet license but trying make it copywrite.
 
 ## Contact
 
-Naval Hatode - [@navalhatode](https://twitter.com/navalhatode) - navalhatode@gmail.com
-Akshay Prabhu - [@akshayprabhu](https://www.linkedin.com/in/akshay-prabhu-0a757484/)
+1) Naval Hatode - [@navalhatode](https://twitter.com/navalhatode) - navalhatode@gmail.com
+2) Akshay Prabhu - [@akshayprabhu](https://www.linkedin.com/in/akshay-prabhu-0a757484/)
 
 Project Link: [https://github.com/navalhatode/airflow_teams_notifier](https://github.com/navalhatode/airflow_teams_notifier)
